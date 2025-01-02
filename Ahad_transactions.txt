@@ -1,0 +1,7 @@
+Deposited: 1000.0
+Final Balance: 1000.0
+
+Deposited: 1000.0
+Withdrew: 200.0
+Final Balance: 800.0
+
