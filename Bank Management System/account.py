@@ -8,3 +8,4 @@ def create_account(name):
 
 def check_balance(account):
     return account["balance"]
+
